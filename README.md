@@ -1,1 +1,1 @@
-# 2021_spring_Computer_Algorithm
+# 2021_spring_Algo
